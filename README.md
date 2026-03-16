@@ -5,7 +5,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Nithish190278&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dad_calls_me__lafoot) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/palla-nithish-kumar-6b6930292) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nithishkumar6865@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/https://www.instagram.com/dad_calls_me__lafoot](https://www.instagram.com/dad_calls_me__lafooot?igsh=djFnejFvMG9wbmJh)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/palla-nithish-kumar-6b6930292) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nithishkumar6865@gmail.com) 
 
 <div align="center">
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
