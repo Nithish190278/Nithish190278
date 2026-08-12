@@ -135,28 +135,6 @@ Building responsive and scalable web applications with modern frontend and backe
 
 ---
 
-# 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nithish190278&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-# 📊 GitHub Stats
-
-![Nithish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithish190278&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Nithish190278&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithish190278&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-# 🔝 Top Contributed Repository
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Nithish190278&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 # 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/palla-nithish-kumar-6b6930292)
