@@ -8,21 +8,6 @@ I enjoy building applications, automating infrastructure and CI/CD pipelines, wo
 
 ---
 
-## 🚀 What I Do
-
-- ☕ Develop applications using **Java**
-- 🌐 Build **Full Stack Web Applications**
-- ☁️ Work with **AWS, Microsoft Azure & Google Cloud Platform**
-- ⚙️ Build and automate **CI/CD pipelines**
-- 🐳 Containerize applications using **Docker**
-- ☸️ Deploy applications using **Kubernetes**
-- 🏗️ Automate infrastructure using **Terraform & Ansible**
-- 🛡️ Implement **DevSecOps** practices
-- 📊 Monitor applications and infrastructure using **Prometheus & Grafana**
-- 🤖 Explore **GenAI and ChatGPT** for development and automation
-
----
-
 # 💻 Programming Languages
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
